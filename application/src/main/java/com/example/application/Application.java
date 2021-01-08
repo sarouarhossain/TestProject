@@ -1,13 +1,14 @@
-package com.example.TestProject;
+package com.example.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.web.bind.annotation.GetMapping;
 
 @SpringBootApplication
-public class TestProjectApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestProjectApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
