@@ -13,4 +13,6 @@ pluginManagement {
 	}
 }
 rootProject.name = 'TestProject'
+include 'common_library'
 include 'application'
+
