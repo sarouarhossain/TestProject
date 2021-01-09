@@ -1,1 +1,1 @@
-./gradlew application:build
+SPRING_PROFILES_ACTIVE=local ./gradlew application:build
