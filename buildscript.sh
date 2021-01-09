@@ -1,0 +1,1 @@
+./gradlew application:build
