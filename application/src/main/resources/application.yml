@@ -11,5 +11,5 @@ spring:
       host: localhost:27017
       database: testdb
       username: admin
-      password: admin
+      password: admindocker
 debug: true
